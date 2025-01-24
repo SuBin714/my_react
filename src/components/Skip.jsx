@@ -10,7 +10,7 @@ const Skip = () => {
         <a href="#port">포토폴리오 영역 바로가기</a>
         <a href="#contact">연락처 영역 바로가기</a>
         <a href="#footer">푸터 영역 바로가기</a>
-    </div>
+   </div>
   )
 }
 
